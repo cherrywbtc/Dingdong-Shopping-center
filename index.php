@@ -164,69 +164,7 @@ if(isset($_SESSION["cart_item"])){
     <!-- content ends --> 
     <div style="height:40px"></div>
     <!-- bottom begin -->
-    <div id="bottom_bot">
-        <div id="bottom">
-        <div id="b_col1">
-              <h1>Useful Resources</h1>
-                <div style="height:10px"></div>
-                    <ul class="spis_bot">
-                        <li><a href="#">Lorem ipsum dolor sit amet </a></li>
-                        <li><a href="#">Maecenas in magna quis augue</a></li>
-                        <li><a href="#">Ut a mauris nec eros consect</a></li>
-                        <li><a href="#">Nam luctus felis at mauris co </a></li>
-                        <li><a href="#">Aliquam sagittis ligula sit amet </a></li>
-                        <li><a href="#">Quisque sit amet est id urna</a></li>
-                    </ul>
-                </div>
-                <div id="b_col2">
-                    <h1>Contact Information</h1>
-                    <div style="height:20px"></div>
-                    <div style="padding-left:10px">
-                        <div  class="box_us">
-                              <div  class="box_us_l">
-                                <img src="images/fish_us1.png" alt="" />
-                              </div>
-                              <div  class="box_us_r">
-                                    <b class="lh">132 Maple Ave, Wallington, NJ 07057</b>
-                              </div>
-                              <div style="clear: both; height:10px;"></div>
-                        </div>
-                        <div  class="box_us">
-                              <div  class="box_us_l">
-                                <img src="images/fish_us2.png" alt="" />
-                              </div>
-                              <div  class="box_us_r">
-                                    <b class="lh">Phone:  5182886671
-                                    </b>
-                              </div>
-                              <div style="clear: both; height:10px;"></div>
-                        </div>
-                        <div  class="box_us">
-                              <div  class="box_us_l">
-                                <img src="images/fish_us3.png" alt="" />
-                              </div>
-                              <div  class="box_us_r">
-                                    <b class="lh">E-mail: jielei.wang.0316@gmail.com</b>
-                              </div>
-                              <div style="clear: both; height:10px;"></div>
-                        </div>
-                    </div>
-            </div>
     
-            <div id="b_col3">
-            	<h1>Share with Others</h1>
-              	<div style="height:15px"></div>
-                    <ul>
-                        <li><img src="images/fu_i1.png" class=" fu_i" alt="" /><a href="#">Subscribe to Blog</a></li>
-                        <li><img src="images/fu_i2.png" class=" fu_i" alt="" /><a href="#">Be a fan on Facebook</a></li>
-                        <li><img src="images/fu_i3.png" class=" fu_i" alt="" /><a href="#">RSS Feed</a></li>
-                        <li><img src="images/fu_i4.png" class=" fu_i" alt="" /><a href="#">Follow us on Twitter</a></li>
-                    </ul>  
-                        
-                </div>
-          	<div style="clear: both; height:20px;"></div>
-        </div>
-    </div>
 <!-- bottom end --> 
 <!-- footer begins -->
        
